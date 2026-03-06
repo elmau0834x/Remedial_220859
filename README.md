@@ -1,6 +1,6 @@
 # Examen Remedial - Base de Datos Hospital
 
-**Alumno:** [Tu Nombre]
+**Alumno:** Mauricio Rosales Gabriel
 **Matrícula:** 220859
 
 ## 🎯 Puntos Evaluados y Cumplidos
